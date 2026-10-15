@@ -74,6 +74,5 @@ python main.py
 - Compare Random Forest, Logistic Regression, and Isolation Forest
 - Add tests and model versioning
 
-<img width="720" height="1570" alt="WhatsApp Image 2026-10-15 at 19 18 06" src="https://github.com/user-attachments/assets/3736e2be-fbac-4cb3-b03c-88f478379c2c" />
-
+<img width="720" height="1494" alt="WhatsApp Image 2026-10-15 at 19 28 27" src="https://github.com/user-attachments/assets/7d0f61b7-e602-4b75-9c1d-a3423d96b620" />
 
